@@ -1,3 +1,5 @@
+#Extraido de: https://github.com/zalandoresearch/fashion-mnist
+
 def load_mnist(path, kind='train'):
     import os
     import gzip
