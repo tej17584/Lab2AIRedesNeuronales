@@ -1,4 +1,11 @@
-#Extraido de: https://github.com/zalandoresearch/fashion-mnist
+# Extraido de: https://github.com/zalandoresearch/fashion-mnist
+""" 
+Nombre: Alejandro Tejada
+Curso: ingeligencia artificial
+Maestro: Samuel Chavez
+Laboratorio #2
+mnist_reader.py es el que lee los archivos
+"""
 
 def load_mnist(path, kind='train'):
     import os
