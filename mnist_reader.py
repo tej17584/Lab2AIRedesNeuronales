@@ -7,6 +7,7 @@ Laboratorio #2
 mnist_reader.py es el que lee los archivos
 """
 
+
 def load_mnist(path, kind='train'):
     import os
     import gzip
